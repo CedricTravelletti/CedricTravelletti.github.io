@@ -14,6 +14,7 @@ The introduced techniques are demonstrated on a set estimation problems in gravi
 (Stromboli volcano).
 
 [published version at SIAM JUQ](https://doi.org/10.1137/21M1445028)
+
 [arXiv version](https://doi.org/10.48550/arXiv.2109.03457)
 
 
@@ -38,6 +39,7 @@ all dimensions of the output and allows computing semi-analytical formulae for t
 The techniques are demonstrated on a river plume estimation problem.
 
 [arXiv version](https://doi.org/10.48550/arXiv.2007.03722)
+
 [published version at Annals of Applied Statistics](https://doi.org/10.1214/21-AOAS1451)
 
 
