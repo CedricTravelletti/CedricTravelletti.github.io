@@ -1,12 +1,15 @@
 ---
 layout: frontpage
 title: Cédric Travelletti
-description: Blue Ham is a PhD candidate at Broom University. 
+description: Cédric Travelletti is a researcher at the University of Bern. 
 keywords: Cedric, Travelletti, research, sequential uncertainty reduction, gaussian process, inverse problem
 ---
 
 # About
 
+I am a researcher in statistics interested in applying machine learning to the natural sciences.
+More precisely, my research focusses on developing sequential uncertainty reduction 
+techniques to inverse problems.
 
 I obtained my PhD in statistics (machine learning) from the University of Bern 
 under the supervision of David Ginsbourger in June 2023.
@@ -15,15 +18,15 @@ under the supervision of David Ginsbourger in June 2023.
 I am now working as an assistant researcher at the University of Bern.
 
 
-# Research Interests
+## Research Interests
 
-Bayesian Inverse Problems 
-
-
-Sequential Uncertainty Reduction 
+##### Bayesian Inverse Problems 
 
 
-Distributed Computing for Large Covariance Matrices
+##### Sequential Uncertainty Reduction 
+
+
+##### Distributed Computing for Large Covariance Matrices
 
 
 

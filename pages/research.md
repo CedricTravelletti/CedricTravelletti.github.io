@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Cédric Travelletti's research
 ---
 
+
+[# Uncertainty Quantification and Experimental Design for Large-Scale Linear Inverse Problems under Gaussian Process Priors](https://doi.org/10.48550/arXiv.2109.03457)
 
 
 #### <u>The effects of increased eye contact on feeding portions</u>
