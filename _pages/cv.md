@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Physics, ETH Zürich, 2014
+* M.Sc in Physics (theoretical) with honors, ETH Zürich, 2016
+* Ph.D in Statistics (summa cum laude), University of Bern, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2017: **SwissRe**: Data Science Intern
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2017: **Deloitte**: Quantitative Risk Consultant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
