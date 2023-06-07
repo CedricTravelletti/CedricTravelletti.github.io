@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#### <u>Uncertainty Quantification and Experimental Design for Large-Scale Linear Inverse Problems under Gaussian Process Priors</u>
+## <u>Uncertainty Quantification and Experimental Design for Large-Scale Linear Inverse Problems under Gaussian Process Priors</u>
 This work extends traditional sequential uncertainty reduction strategies (SUR) 
 to large-scale Bayesian inverse problems. 
 By introducing a new, implicit representation of the posterior covariance matrix of a 
@@ -19,7 +19,7 @@ The introduced techniques are demonstrated on a set estimation problems in gravi
 
 
 
-#### <u>Disintegration of Gaussian Measures for Sequential Assimilation of Linear Operator Data</u>
+## <u>Disintegration of Gaussian Measures for Sequential Assimilation of Linear Operator Data</u>
 In this article, we provide a theoretical framework for conditioning Gaussian processes (GP) 
 under linear operator data by leveraging the theory of Gaussian measures. 
 Disintegrations of Gaussian measures offer a sound theoretical framework for conditioning under 
@@ -31,7 +31,7 @@ that a GP with trajectories in a given Banach space induces a measure on that sp
 
 
 
-#### <u>Learning excursion sets of vector-valued Gaussian random fields for autonomous ocean sampling</u>
+## <u>Learning excursion sets of vector-valued Gaussian random fields for autonomous ocean sampling</u>
 In this work, we extend SUR strategies to multivariate settings. In passing, we provide a new 
 way of looking at the GP co-kriging equations that makes them form-invariant across 
 all dimensions of the output and allows computing semi-analytical formulae for the SUR criterion. 
