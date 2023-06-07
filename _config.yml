@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cédric Travelletti"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Cédric Travelletti"
 description              : &description "personal description"
