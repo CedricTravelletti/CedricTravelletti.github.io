@@ -5,13 +5,40 @@ description: Cédric Travelletti's research
 ---
 
 
-[# Uncertainty Quantification and Experimental Design for Large-Scale Linear Inverse Problems under Gaussian Process Priors](https://doi.org/10.48550/arXiv.2109.03457)
+#### <u>Uncertainty Quantification and Experimental Design for Large-Scale Linear Inverse Problems under Gaussian Process Priors</u>
+This work extends traditional sequential uncertainty reduction strategies (SUR) 
+to large-scale Bayesian inverse problems. 
+By introducing a new, implicit representation of the posterior covariance matrix of a 
+Gaussian process, we are able to scale SUR real-world 3D problems. 
+The introduced techniques are demonstrated on a set estimation problems in gravimetric inversion 
+(Stromboli volcano).
+
+[published version at SIAM JUQ](https://doi.org/10.1137/21M1445028)
+[arXiv version](https://doi.org/10.48550/arXiv.2109.03457)
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+
+#### <u>Disintegration of Gaussian Measures for Sequential Assimilation of Linear Operator Data</u>
+In this article, we provide a theoretical framework for conditioning Gaussian processes (GP) 
+under linear operator data by leveraging the theory of Gaussian measures. 
+Disintegrations of Gaussian measures offer a sound theoretical framework for conditioning under 
+linear operator data, and we extend previous results to allow conditioning non-centered measures. 
+To ensure that the measure results transfer to the GP world, we provide conditions for ensuring 
+that a GP with trajectories in a given Banach space induces a measure on that space.
+
+[arXiv version](https://doi.org/10.48550/arXiv.2207.13581)
+
+
+
+#### <u>Learning excursion sets of vector-valued Gaussian random fields for autonomous ocean sampling</u>
+In this work, we extend SUR strategies to multivariate settings. In passing, we provide a new 
+way of looking at the GP co-kriging equations that makes them form-invariant across 
+all dimensions of the output and allows computing semi-analytical formulae for the SUR criterion. 
+The techniques are demonstrated on a river plume estimation problem.
+
+[arXiv version](https://doi.org/10.48550/arXiv.2007.03722)
+[published version at Annals of Applied Statistics](https://doi.org/10.1214/21-AOAS1451)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
