@@ -1,9 +1,9 @@
 ---
 title: "Methods for out-of-memory Bayesian Inversion with a View towards Optimal Design of Experiments"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/03_NTNU
-venue: "Invited talk, NTNU statistics research group"
+venue: "NTNU statistics research group"
 date: 2020-08-17
 location: "Trondheim, Norway"
 ---
