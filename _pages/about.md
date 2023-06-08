@@ -23,7 +23,7 @@ worked as a data scientist at SwissRe and as a quantitative risk consultant at D
 
 Research Interests
 ======
-#### Bayesian Inverse Problems
+## Bayesian Inverse Problems
 
 Most existing probabilistic inversion techniques have been demonstrated on toy models 
 but tend to scale poorly when applied to real-world problems. My aim is to overcome these 
@@ -37,9 +37,15 @@ gravimetric inversion for volcanoes.
 * **Realistic priors**
 
 
-#### Sequential Uncertainty Reduction
+## Sequential Uncertainty Reduction
+Sequential uncertainty reduction (SUR) strategies aim at computing data collection plans 
+that optimally reduce the uncertainty on a given quantity of interest. During my PhD, 
+I have worked on developping SUR strategies for set estimation in large-scale inverse problems. 
+I have also worked on extending these strategies to multivariate set estimation problems. 
+Currently, my research focuses on making the data collection plans proposed by SUR more realistic, 
+by including travel costs, location-specific penalties and global constraints.
 
-#### Distributed Computing for Large Covariance Modelling
+## Distributed Computing for Large Covariance Modelling
 When workin with probabilistic models discretized on a grid, covariance matrices 
 grow quadratically in the grid size. While this used to call for approximations scheme, 
 with the avent of cloud-, distributed-computing, researchers are now able to handle the 
