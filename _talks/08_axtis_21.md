@@ -3,7 +3,7 @@ title: "Uncertainty Quantification and Experimental Design for Large-Scale Linea
 collection: talks
 type: "Conference"
 permalink: /talks/08_axtis_21
-venue: "axtis 21"
+venue: "<b>axtis 21</b>"
 date: 2021-09-07
 location: "Bern, Switzerland"
 ---

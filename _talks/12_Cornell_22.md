@@ -3,7 +3,7 @@ title: "Bayesian Inversion for Excursion Set Recovery: Including known Trends an
 collection: talks
 type: "Invited Talk"
 permalink: /talks/12_Cornell_22
-venue: "Cornell CSE School"
+venue: "<b>Cornell CSE School</b>"
 date: 2022-10-21
 location: "Ithaca, United States"
 ---

@@ -3,7 +3,7 @@ title: "Implicit Update for Large-Scale Inversion under GP prior"
 collection: talks
 type: "Poster"
 permalink: /talks/05_BedSi
-venue: "Bern Data Science Day 2021"
+venue: "<b>Bern Data Science Day 2021</b>"
 date: 2021-04-23
 location: "Bern, Switzerland"
 ---

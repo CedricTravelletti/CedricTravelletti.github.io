@@ -3,7 +3,7 @@ title: "Universal Inversion: Extending Universal Kriging to Include Trends in Ba
 collection: talks
 type: "Conference"
 permalink: /talks/11_MascotNum_22
-venue: "MASCOT_NUM 2022 Meeting"
+venue: "<b>MASCOT_NUM 2022 Meeting</b>"
 date: 2022-06-07
 location: "Clermont Ferrand, France"
 ---

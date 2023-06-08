@@ -3,7 +3,7 @@ title: "Uncertainty Quantification and Experimental Design for Large-Scale Inver
 collection: talks
 type: "Conference"
 permalink: /talks/10_SIAM_UQ_22
-venue: "SIAM UQ 2022"
+venue: "<b>SIAM UQ 2022</b>"
 date: 2022-04-14
 location: "Atlanta, United States"
 ---

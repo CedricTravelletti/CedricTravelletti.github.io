@@ -3,7 +3,7 @@ title: "Uncertainty Quantification and Experimental Design for Large-Scale Linea
 collection: talks
 type: "Conference"
 permalink: /talks/07_Journees_MAS
-venue: "Journées MAS 2020"
+venue: "<b>Journées MAS 2020</b>"
 date: 2021-08-25
 location: "Orléans, France"
 ---

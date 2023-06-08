@@ -3,7 +3,7 @@ title: "Fast, large scale Gaussian Process-based Bayesian inversion for set esti
 collection: talks
 type: "Poster"
 permalink: /talks/06_MascotNum_21
-venue: "MASCOT-NUM 2021 Meeting"
+venue: "<b>MASCOT-NUM 2021 Meeting</b>"
 date: 2021-04-28
 location: "Aussois, France"
 ---

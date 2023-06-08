@@ -3,7 +3,7 @@ title: "Methods for out-of-memory Bayesian Inversion with a View towards Optimal
 collection: talks
 type: "Invited talk"
 permalink: /talks/03_NTNU
-venue: "NTNU statistics research group"
+venue: "<b>NTNU statistics research group</b>"
 date: 2020-08-17
 location: "Trondheim, Norway"
 ---
