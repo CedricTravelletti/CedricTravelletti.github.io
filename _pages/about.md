@@ -23,7 +23,7 @@ worked as a data scientist at SwissRe and as a quantitative risk consultant at D
 
 Research Interests
 ======
-####Bayesian Inverse Problems
+#### Bayesian Inverse Problems
 
 Most existing probabilistic inversion techniques have been demonstrated on toy models 
 but tend to scale poorly when applied to real-world problems. My aim is to overcome these 
@@ -37,7 +37,16 @@ gravimetric inversion for volcanoes.
 * **Realistic priors**
 
 
-####Sequential Uncertainty Reduction
+#### Sequential Uncertainty Reduction
 
-#####Distributed Computing for Large Covariance Modelling
+#### Distributed Computing for Large Covariance Modelling
+When workin with probabilistic models discretized on a grid, covariance matrices 
+grow quadratically in the grid size. While this used to call for approximations scheme, 
+with the avent of cloud-, distributed-computing, researchers are now able to handle the 
+covariances on large grids without approximations.
+
+By leveraging state-of-the-art techniques from distributed computing, we build algorithms 
+for large-scale data assimilation (*Ensemble Kalman Filter*) and for estimation of large 
+covariance matrices; demonstrating how these can be used in climatology and paleoclimate 
+reconstruction.
 
