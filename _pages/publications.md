@@ -43,6 +43,23 @@ The techniques are demonstrated on a river plume estimation problem.
 
 
 
+## <u>Non-Sequential Ensemble Kalman Filtering using Distributed Arrays</u>
+Ensemble Kalman filtering (EnKF) is the most popular data assimilation technique 
+nowadays, owing to its ability to handle high-dimensional state spaces and to 
+its flexibility in the specification of the prior. Nevertheless, the implementation 
+that is used by most practicioners (localizes, sequential, square root filter) is 
+wrong, because of erroneous update equations. Although this fact is well-known in 
+the data assimilation community, most choose to ignore it, arguing that the 
+inacurracies are small. In this work, we provide a comprehensive study of the 
+inacurracies introdued by the use of wrong update equations and show how one can 
+fix these by using a distributed implementation of the EnKF. 
+Our implementation relies on distributed arrays, which allows us to 
+handle very large matrices and thus assimilate all data at once, fixing 
+the errors that stem from sequential assimilation.
+
+[preprint](/images/Kalman_all_at_once.pdf)
+
+
 
 
 {% if author.googlescholar %}
