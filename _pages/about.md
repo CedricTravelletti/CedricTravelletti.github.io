@@ -11,10 +11,6 @@ redirect_from:
 I am a postdoctoral researcher in the [Mathematics for Materials Modelling](https://matmat.org/) (MatMat) 
 group at EPFL Lausanne.
 
-I am a researcher in Statistics an Machine Learning at the University of Bern 
-interessted in using machine learning to guide data acquisition pocesses in the natural 
-sciences.
-
 I obtained my PhD in statistics from the University of Bern in June 2023 under the supervision of
 [Prof. David Ginsbourger](http://www.ginsbourger.ch/), writing a [thesis](https://boristheses.unibe.ch/4553/1/23travelletti_c.pdf) on 
 how to use machine learning to guide data acquisition pocesses in the natural 
