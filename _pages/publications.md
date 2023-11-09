@@ -18,7 +18,6 @@ The introduced techniques are demonstrated on a set estimation problems in gravi
 
 
 
-
 ## <u>Disintegration of Gaussian Measures for Sequential Assimilation of Linear Operator Data</u>
 In this article, we provide a theoretical framework for conditioning Gaussian processes (GP) 
 under linear operator data by leveraging the theory of Gaussian measures. 
@@ -60,6 +59,35 @@ the errors that stem from sequential assimilation.
 [preprint](/images/Kalman_all_at_once.pdf)
 
 
+
+## (Thesis) <u>Non-Sequential Ensemble Kalman Filtering using Distributed Arrays</u>
+This thesis aims at developing sequential uncertainty reduction techniques for set
+estimation in Bayesian inverse problems. Sequential uncertainty reduction (SUR)
+strategies provide a statistically principled way of designing data collection plans
+that optimally reduce the uncertainty on a given quantity of interest. This thesis
+focusses on settings where the quantity of interest is a set that is implicitly defined
+by conditions on some unknown function and one is only able to observe the values
+of linear operators applied to the function. This setting corresponds to the one en-
+coutered in linear inverse problems and proves to be challenging for SUR techniques.
+Indeed, SUR relies on having a probabilistic model for the unknown function under
+consideration, and these models become untractable for moderately sized problem.
+We start by introducing an implicit representation for covariance matrices of Gaus-
+sian processes (GP) to overcome this limitation, and demonstrate how it allows one
+to perform SUR for excursion set estimation in a real-world 3D gravimetric inversion
+problem on the Stromboli volcano. In a second time, we focus on extending vanilly
+SUR to multivariate problems. To that end, we introduce the concept of ’generalized
+locations’, which allows us to rewrite the co-kriging equations in a form-invariant
+way and to derive semi-analytical formulae for multivariate SUR criteria. Those
+approaches are demonstrated on a river plume estimation problem. After having
+extended SUR for inverse problems to large-scale and multivariate settings, we de-
+vote our attention to improving the realism of the models by including user-defined
+trends. We show how this can be done by extending universal kriging to inverse
+problems and also provide fast k-fold cross-validation formulae. Finally, in order to
+provide theoretical footing for the developed approaches, show how the conditional
+law of a GP can be seen as a disintegration of a corresponding Gaussian measure
+under some suitable condition.
+
+[online version](https://boristheses.unibe.ch/4553/1/23travelletti_c.pdf)
 
 
 {% if author.googlescholar %}

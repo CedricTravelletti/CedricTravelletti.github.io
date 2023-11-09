@@ -8,18 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral researcher in the [Mathematics for Materials Modelling](https://matmat.org/) (MatMat) 
+group at EPFL Lausanne.
+
 I am a researcher in Statistics an Machine Learning at the University of Bern 
 interessted in using machine learning to guide data acquisition pocesses in the natural 
 sciences.
 
-After obtaining a PhD in statistics in June 2023 under the supervision of
-[Prof. David Ginsbourger](http://www.ginsbourger.ch/).
-at the University of Bern, I am now working as an assistant researcher.
-<!---
-[Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/).
--->
+I obtained my PhD in statistics from the University of Bern in June 2023 under the supervision of
+[Prof. David Ginsbourger](http://www.ginsbourger.ch/), writing a [thesis](https://boristheses.unibe.ch/4553/1/23travelletti_c.pdf) on 
+how to use machine learning to guide data acquisition pocesses in the natural 
+sciences.
 
-Before joining the University of Bern, I obtained an MSc in Physics from ETH Zürich and 
+After my PhD, I worked as an assistant researcher for the 
+at the University of Bern, I am now working as an assistant researcher 
+for the 
+[Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), 
+developing distributed computing algorithms for paleoclimate reconstructions.
+
+
+Before my PhD, I obtained an MSc in Physics (Hons.) from ETH Zürich and 
 worked as a data scientist at SwissRe and as a quantitative risk consultant at Deloitte.
 
 
@@ -42,13 +50,13 @@ gravimetric inversion for volcanoes.
 ## Sequential Uncertainty Reduction
 Sequential uncertainty reduction (SUR) strategies aim at computing data collection plans 
 that optimally reduce the uncertainty on a given quantity of interest. During my PhD, 
-I have worked on developping SUR strategies for set estimation in large-scale inverse problems. 
+I have worked on developing SUR strategies for set estimation in large-scale inverse problems. 
 I have also worked on extending these strategies to multivariate set estimation problems. 
 Currently, my research focuses on making the data collection plans proposed by SUR more realistic, 
 by including travel costs, location-specific penalties and global constraints.
 
 ## Distributed Computing for Large Covariance Modelling
-When workin with probabilistic models discretized on a grid, covariance matrices 
+When working with probabilistic models discretized on a grid, covariance matrices 
 grow quadratically in the grid size. While this used to call for approximations scheme, 
 with the avent of cloud-, distributed-computing, researchers are now able to handle the 
 covariances on large grids without approximations.
