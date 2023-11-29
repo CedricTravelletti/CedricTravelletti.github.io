@@ -17,18 +17,20 @@ how to use machine learning to guide data acquisition pocesses in the natural
 sciences.
 
 After my PhD, I worked as an assistant researcher for the 
-at the University of Bern, I am now working as an assistant researcher 
-for the 
 [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), 
 developing distributed computing algorithms for paleoclimate reconstructions.
 
 
 Before my PhD, I obtained an MSc in Physics (Hons.) from ETH Zürich and 
-worked as a data scientist at SwissRe and as a quantitative risk consultant at Deloitte.
+worked as a **data scientist** at *SwissRe* and as a **quantitative risk consultant** at *Deloitte*.
 
+News
+====
+I have a new preprint online about using [distributed computing for Ensemble Kalman Filtering](https://arxiv.org/abs/2311.12909) with applications 
+to paleoclimate reconstruction.
 
 Research Interests
-======
+==================
 ## Bayesian Inverse Problems
 
 Most existing probabilistic inversion techniques have been demonstrated on toy models 
