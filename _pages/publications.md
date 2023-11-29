@@ -56,7 +56,7 @@ Our implementation relies on distributed arrays, which allows us to
 handle very large matrices and thus assimilate all data at once, fixing 
 the errors that stem from sequential assimilation.
 
-[preprint](/images/Kalman_all_at_once.pdf)
+[arXiv preprint](https://arxiv.org/abs/2311.12909)
 
 
 
