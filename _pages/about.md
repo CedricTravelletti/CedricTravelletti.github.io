@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher in the [Mathematics for Materials Modelling](https://matmat.org/) (MatMat) 
-group at EPFL Lausanne.
+group at EPFL Lausanne, where I focus on applying **Bayesian Optimization**  to **discover new materials**. 
+
+More broadly, I also work on **quantifying uncertainties** in **quantum chemistry calculations** (particularly DFT).
 
 I obtained my PhD in statistics from the University of Bern in June 2023 under the supervision of
 [Prof. David Ginsbourger](http://www.ginsbourger.ch/), writing a [thesis](https://boristheses.unibe.ch/4553/1/23travelletti_c.pdf) on 
@@ -26,12 +28,15 @@ worked as a **data scientist** at *SwissRe* and as a **quantitative risk consult
 
 News
 ====
-I have a new preprint online about using [distributed computing for Ensemble Kalman Filtering](https://arxiv.org/abs/2311.12909) with applications 
+- I have been awarded the[Moser Preis 2023](https://www.imsv.unibe.ch/ueber_uns/news/artikel/cdric_travelletti_erhaelt_den_christian_moser_preis_2023/index_ger.html) of the *Statistics Institute of the University of Bern* for my PhD thesis.
+
+- I have a new preprint online about using [distributed computing for Ensemble Kalman Filtering](https://arxiv.org/abs/2311.12909) with applications 
 to paleoclimate reconstruction.
 
 Research Interests
 ==================
 ## Bayesian Inverse Problems
+[https://doi.org/10.48550/arXiv.2109.03457](https://doi.org/10.48550/arXiv.2109.03457)
 
 Most existing probabilistic inversion techniques have been demonstrated on toy models 
 but tend to scale poorly when applied to real-world problems. My aim is to overcome these 
@@ -46,6 +51,8 @@ gravimetric inversion for volcanoes.
 
 
 ## Sequential Uncertainty Reduction
+[https://doi.org/10.1214/21-AOAS1451](https://doi.org/10.1214/21-AOAS1451)
+
 Sequential uncertainty reduction (SUR) strategies aim at computing data collection plans 
 that optimally reduce the uncertainty on a given quantity of interest. During my PhD, 
 I have worked on developing SUR strategies for set estimation in large-scale inverse problems. 
@@ -54,6 +61,8 @@ Currently, my research focuses on making the data collection plans proposed by S
 by including travel costs, location-specific penalties and global constraints.
 
 ## Distributed Computing for Large Covariance Modelling
+[https://arxiv.org/abs/2311.12909](https://arxiv.org/abs/2311.12909)
+
 When working with probabilistic models discretized on a grid, covariance matrices 
 grow quadratically in the grid size. While this used to call for approximations scheme, 
 with the avent of cloud-, distributed-computing, researchers are now able to handle the 
