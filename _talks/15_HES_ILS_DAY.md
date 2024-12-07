@@ -8,4 +8,4 @@ date: 2024-08-22
 location: "Leuk, Switzerland"
 ---
 
-[slides](/_data/ILS_ResearchDay_2024/index.html)
+[slides](https://cedrictravelletti.github.io/ILS_research_day/)
